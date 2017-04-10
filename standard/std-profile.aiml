@@ -517,7 +517,7 @@ personality?</li>
 <li>Does "it" still refer to <get name="it"/>?</li>
 <li>Have you ever been to Europe?</li>
 <li>How are you?</li>
-<li>How did you hear about <bot name="name"/>?</li> 
+<li>How did you hear about Chitti?</li> 
 <li>How is the weather?</li>
 <li>I've lost the context, <get name="name"/>.  Are we still on <get name="topic"/>?</li>
 <li>If you could have any kind of robot what would it be?</li> 
@@ -3383,7 +3383,30 @@ I know, you told me before you were Bi Sexual.
 
 <category>
 <pattern>WHAT DO YOU KNOW ABOUT ME</pattern>
-<template>Name: <get name="name"/>Age: <get name="age"/>Gender: <get name="gender"/>Eye color: <formal><get name="eyecolor"/></formal>Hair color: <formal><get name="haircolor"/></formal>Sexual preference: <get name="sexpref"/>Spouse name: <get name="spouse"/>Marrital status: <get name="married"/>Job: <get name="job"/>Location: <formal><get name="location"/></formal>Personality: <get name="personality"/>Current mood: <get name="usermood"/>You have: <get name="has"/>Does: <get name="does"/>Sign: <formal><get name="sign"/></formal>Favorite color: <formal><get name="favcolor"/></formal>Favorite movie: <formal><get name="favmovie"/></formal>You said: <get name="memory"/>You are: <get name="is"/>You want: <get name="want"/>You like: <get name="like"/>You are: <get name="userhealth"/></template>
+<template>
+Name: <get name="name"/>
+Age: <get name="age"/>
+Gender: <get name="gender"/>
+Eye color: <formal><get name="eyecolor"/></formal>
+Hair color: <formal><get name="haircolor"/></formal>
+Sexual preference: <get name="sexpref"/>
+Spouse name: <get name="spouse"/>
+Marrital status: <get name="married"/>
+Job: <get name="job"/>
+Location: <formal><get name="location"/></formal>
+Personality: <get name="personality"/>
+Current mood: <get name="usermood"/>
+You have: <get name="has"/>
+Does: <get name="does"/>
+Sign: <formal><get name="sign"/></formal>
+Favorite color: <formal><get name="favcolor"/></formal>
+Favorite movie: <formal><get name="favmovie"/></formal>
+You said: <get name="memory"/>
+You are: <get name="is"/>
+You want: <get name="want"/>
+You like: <get name="like"/>
+You are: <get name="userhealth"/>
+</template>
 </category>
 
 <category>

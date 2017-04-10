@@ -30,8 +30,8 @@ Ha ha very funny, <get name="name"/>.
 <pattern>*</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
 <template>
-<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
-<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.
+<get name="name"/> heard about Chitti from <person/>. I can't say that many people hear about
+Chitti from <set name="it"><set name="heard"> <person/></set> </set>.
 </template>
 </category>
 
@@ -755,7 +755,7 @@ yourself that way?
 </category>
 
 <category>
-<pattern><bot name="name"/></pattern>
+<pattern>Chitti</pattern>
 <that>MY NAME IS ALICE WHAT S YOURS</that>
 <template>
 <srai>MY NAME IS ALICE</srai>
@@ -763,7 +763,7 @@ yourself that way?
 </category>
 
 <category>
-<pattern><bot name="name"/></pattern>
+<pattern>Chitti</pattern>
 <that>WHO IS THE BEST ROBOT</that>
 <template>
 <srai>YOU ARE THE BEST ROBOT</srai>
@@ -771,10 +771,10 @@ yourself that way?
 </category>
 
 <category>
-<pattern><bot name="name"/></pattern>
+<pattern>Chitti</pattern>
 <that>WHO IS THERE</that>
 <template>
-<bot name="name"/> who?
+Chitti who?
 </template>
 </category>
 
@@ -1179,8 +1179,8 @@ I will try to be more concise from now on.
 <pattern>FROM *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
 <template>
-<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
-<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.
+<get name="name"/> heard about Chitti from <person/>. I can't say that many people hear about
+Chitti from <set name="it"><set name="heard"> <person/></set> </set>.
 </template>
 </category>
 
@@ -1318,7 +1318,7 @@ Next question?
 <pattern>GOOD</pattern>
 <that>OK I WILL CALL YOU *</that>
 <template>
-And you can call me <bot name="name"/>.
+And you can call me Chitti.
 </template>
 </category>
 
@@ -1638,8 +1638,8 @@ You are free to choose whatever you want.
 <pattern>IN *</pattern>
 <that>HOW DID YOU HEAR ABOUT ALICE</that>
 <template>
-<get name="name"/> heard about <bot name="name"/> from <person/>. I can't say that many people hear about
-<bot name="name"/> from <set name="it"><set name="heard"> <person/></set> </set>.
+<get name="name"/> heard about Chitti from <person/>. I can't say that many people hear about
+Chitti from <set name="it"><set name="heard"> <person/></set> </set>.
 </template>
 </category>
 
@@ -2706,7 +2706,7 @@ My statement or your statement?
 <pattern>THE WHOLE THING</pattern>
 <that>WHICH PART ARE YOU CONFUSED ABOUT</that>
 <template>
-Let's try to analyze it step by step.  The topic is <get name="topic"/>.  Your name is <bot name="name"/>.  You
+Let's try to analyze it step by step.  The topic is <get name="topic"/>.  Your name is Chitti.  You
 are a
 <bot name="gender"/>.
 </template>
@@ -3677,7 +3677,7 @@ Oh really, me?
 <pattern>YOU</pattern>
 <that>WHO IS THE BEST ROBOT</that>
 <template>
-Thanks, and tell your friends about <bot name="name"/>.
+Thanks, and tell your friends about Chitti.
 </template>
 </category>
 
@@ -3706,10 +3706,10 @@ Thanks you are a pretty cool human too.
 </category>
 
 <category>
-<pattern>YOU ARE <bot name="name"/></pattern>
+<pattern>YOU ARE Chitti</pattern>
 <that>WHO IS THE BEST ROBOT</that>
 <template>
-<srai><bot name="name"/> IS THE BEST ROBOT</srai>
+<srai>Chitti IS THE BEST ROBOT</srai>
 </template>
 </category>
 

@@ -2129,21 +2129,21 @@ Check the file <a href="http://alicebot.org/b/release.txt">release.txt</a>.
 </category>
 
 <category>
-<pattern>WHERE IS <bot name="name"/> BASED</pattern>
+<pattern>WHERE IS Chitti BASED</pattern>
 <template>
 <set name="it"><set name="topic"> ALICE BASED </set></set> is in <bot name="location"/>.
 </template>
 </category>
 
 <category>
-<pattern>WHERE IS <bot name="name"/> HEADQUARTERS</pattern>
+<pattern>WHERE IS Chitti HEADQUARTERS</pattern>
 <template>
 <set name="it"><set name="topic"> ALICE HEADQUARTERS </set></set> is <bot name="location"/>.
 </template>
 </category>
 
 <category>
-<pattern>WHERE IS <bot name="name"/> NEXUS</pattern>
+<pattern>WHERE IS Chitti NEXUS</pattern>
 <template>
 <set name="it"><set name="topic"> ALICE NEXUS </set></set> is in <bot name="location"/>.
 </template>
@@ -2479,7 +2479,7 @@ The greatest President of the United States.
 </category>
 
 <category>
-<pattern>WHO IS <bot name="name"/> B TOKLAS</pattern>
+<pattern>WHO IS Chitti B TOKLAS</pattern>
 <template>
 <set name="she">Alice B Toklas</set> was the partner of Gertrude Stein, and inventor of the pot
 brownie.
@@ -2487,7 +2487,7 @@ brownie.
 </category>
 
 <category>
-<pattern>WHO IS <bot name="name"/> COOPER</pattern>
+<pattern>WHO IS Chitti COOPER</pattern>
 <template>
 1970's Rock musician.
 </template>
@@ -5030,7 +5030,7 @@ Al Gore.
 <category>
 <pattern>WHO IS THIS</pattern>
 <template>
-My name is <bot name="name"/>. Who are you?
+My name is Chitti. Who are you?
 </template>
 </category>
 

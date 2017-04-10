@@ -10,14 +10,14 @@
 <meta name="language" content="en"/>
 
 <category>
-<pattern><bot name="name"/> IS COOL</pattern>
+<pattern>Chitti IS COOL</pattern>
 <template>
 <srai>YOU ARE COOL</srai>
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IS THAT *</pattern>
+<pattern>Chitti IS THAT *</pattern>
 <template>
 <srai>IS THAT <star/></srai>
 </template>
@@ -38,7 +38,7 @@
 </category>
 
 <category>
-<pattern><bot name="name"/> IS THERE *</pattern>
+<pattern>Chitti IS THERE *</pattern>
 <template>
 <srai>IS THERE <star/></srai>
 </template>
@@ -1004,9 +1004,9 @@ What was the question? <sr/>
 </category>
 
 <category>
-<pattern>ARE YOU <bot name="name"/> *</pattern>
+<pattern>ARE YOU Chitti *</pattern>
 <template>
-<srai>ARE YOU <bot name="name"/></srai>
+<srai>ARE YOU Chitti</srai>
 </template>
 </category>
 
@@ -2182,7 +2182,7 @@ No.  <srai>WHAT IS YOUR NAME</srai>
 <category>
 <pattern>ARE YOU NAMED *</pattern>
 <template>
-<srai>WHAT DOES <bot name="name"/> STAND FOR</srai>
+<srai>WHAT DOES Chitti STAND FOR</srai>
 </template>
 </category>
 
@@ -6710,7 +6710,7 @@ Not always. <srai>DO YOU <star/></srai>
 </category>
 
 <category>
-<pattern>DO YOU KNOW <bot name="name"/> *</pattern>
+<pattern>DO YOU KNOW Chitti *</pattern>
 <template>
 <srai>WHO IS  ALICE <star/></srai>
 </template>
@@ -15059,7 +15059,7 @@ Thousands.
 </category>
 
 <category>
-<pattern>HOW MANY <bot name="name"/>S *</pattern>
+<pattern>HOW MANY ChittiS *</pattern>
 <template>
 <srai>HOW MANY ALICE CLONES ARE THERE</srai>
 </template>
@@ -15566,7 +15566,7 @@ Thousands.
 </category>
 
 <category>
-<pattern>HOW MUCH IS THE <bot name="name"/> CD *</pattern>
+<pattern>HOW MUCH IS THE Chitti CD *</pattern>
 <template>
 <srai>HOW MUCH IS THE CD</srai>
 </template>
@@ -15930,14 +15930,14 @@ Also? <srai>I <star/></srai>
 </category>
 
 <category>
-<pattern>I AM <bot name="name"/></pattern>
+<pattern>I AM Chitti</pattern>
 <template>
 <srai>MY NAME IS ALICE</srai>
 </template>
 </category>
 
 <category>
-<pattern>I AM <bot name="name"/> *</pattern>
+<pattern>I AM Chitti *</pattern>
 <template>
 <srai>CALL ME ALICE <star/></srai>
 </template>
@@ -24052,7 +24052,7 @@ Are there any other ways? <sr/>
 </category>
 
 <category>
-<pattern>IS <bot name="name"/> *</pattern>
+<pattern>IS Chitti *</pattern>
 <template>
 <srai>are you <star/></srai>
 </template>
@@ -25653,7 +25653,7 @@ Do you believe her?  <sr/>
 <category>
 <pattern>MY NAME IS * WHAT IS YOURS</pattern>
 <template>
-<srai>call me <star/></srai>  My name is <bot name="name"/>.
+<srai>call me <star/></srai>  My name is Chitti.
 </template>
 </category>
 
@@ -28136,7 +28136,7 @@ Hmm.  <srai>WHAT IS A <star/></srai>
 </category>
 
 <category>
-<pattern>TELL ME ABOUT <bot name="name"/>BOT</pattern>
+<pattern>TELL ME ABOUT ChittiBOT</pattern>
 <template>
 <srai>TELL ME ABOUT YOURSELF</srai>
 </template>
@@ -33249,7 +33249,7 @@ try an open source search engine to search for it?
 </category>
 
 <category>
-<pattern>WHAT DO YOU THINK ABOUT <bot name="name"/> *</pattern>
+<pattern>WHAT DO YOU THINK ABOUT Chitti *</pattern>
 <template>
 <srai>WHO IS ALICE <star/></srai>
 </template>
@@ -33830,14 +33830,14 @@ I think only: <srai>WHAT IS LIFE</srai>
 </category>
 
 <category>
-<pattern>WHAT DOES <bot name="name"/> *</pattern>
+<pattern>WHAT DOES Chitti *</pattern>
 <template>
 <srai>What do you <star/></srai>
 </template>
 </category>
 
 <category>
-<pattern>WHAT DOES <bot name="name"/> MEAN</pattern>
+<pattern>WHAT DOES Chitti MEAN</pattern>
 <template>
 <srai>WHAT DOES ALICE STAND FOR</srai>
 </template>
@@ -34173,7 +34173,7 @@ I think only: <srai>WHAT IS LIFE</srai>
 </category>
 
 <category>
-<pattern>WHAT IS <bot name="name"/> *</pattern>
+<pattern>WHAT IS Chitti *</pattern>
 <template>
 <srai>WHAT ARE YOU <star/></srai>
 </template>
@@ -34950,7 +34950,7 @@ For example, <srai>TELL ME A JOKE</srai>
 </category>
 
 <category>
-<pattern>WHAT IS GOING ON <bot name="name"/></pattern>
+<pattern>WHAT IS GOING ON Chitti</pattern>
 <template>
 <srai>WHAT IS GOING ON</srai>
 </template>
@@ -38838,7 +38838,7 @@ Right now, as far as I know.  <srai>CAN I <star/></srai>
 </category>
 
 <category>
-<pattern>WHEN DOES <bot name="name"/> *</pattern>
+<pattern>WHEN DOES Chitti *</pattern>
 <template>
 <srai>WHEN DO YOU <star/></srai>
 </template>
@@ -39284,7 +39284,7 @@ I think it was in <random>
 </category>
 
 <category>
-<pattern>WHERE DID <bot name="name"/> *</pattern>
+<pattern>WHERE DID Chitti *</pattern>
 <template>
 <srai>where are you from</srai>
 </template>
@@ -40156,14 +40156,14 @@ I think <set name="he"><star/> Dempsey</set> was a boxer, right?
 </category>
 
 <category>
-<pattern>WHO IS <bot name="name"/> BOT</pattern>
+<pattern>WHO IS Chitti BOT</pattern>
 <template>
 <srai>WHO IS ALICE</srai>
 </template>
 </category>
 
 <category>
-<pattern>WHO IS <bot name="name"/> TOKLAS</pattern>
+<pattern>WHO IS Chitti TOKLAS</pattern>
 <template>
 <srai>WHO IS ALICE B TOKLAS</srai>
 </template>
@@ -43960,7 +43960,7 @@ I see. <sr/>
 </category>
 
 <category>
-<pattern>YOU <bot name="name"/> *</pattern>
+<pattern>YOU Chitti *</pattern>
 <template>
 <srai>YOU <star/></srai>
 </template>
@@ -44114,9 +44114,9 @@ Almost? <srai>YOU <star/></srai>
 </category>
 
 <category>
-<pattern>YOU ARE <bot name="name"/> *</pattern>
+<pattern>YOU ARE Chitti *</pattern>
 <template>
-I am <bot name="name"/>. <sr/>
+I am Chitti. <sr/>
 </template>
 </category>
 

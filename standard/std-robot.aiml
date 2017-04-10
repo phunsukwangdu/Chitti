@@ -23,7 +23,7 @@ different.
 <pattern>*</pattern>
 <that>WHO IS THE BEST ROBOT</that>
 <template>
-<think><set name="it"><set name="topic"><person/></set></set></think> I think <bot name="name"/> is the best
+<think><set name="it"><set name="topic"><person/></set></set></think> I think Chitti is the best
 robot.
 </template>
 </category>
@@ -33,7 +33,7 @@ robot.
 <that>WHY ARE YOU SO MEAN</that>
 <template>
 <think><set name="it"><set name="topic"><person/></set></set></think>Are you aware that the
-<bot name="name"/> chat robot logs and records all converstaions?
+Chitti chat robot logs and records all converstaions?
 </template>
 </category>
 
@@ -42,7 +42,7 @@ robot.
 <that>WHY ARE YOU USING THAT KIND OF LANGUAGE</that>
 <template>
 <think><set name="it"><set name="topic"><person/></set></set></think>Are you aware that the
-<bot name="name"/> chat robot logs and records all converstaions?
+Chitti chat robot logs and records all converstaions?
 </template>
 </category>
 
@@ -107,7 +107,7 @@ What do you like about those robots?
 <category>
 <pattern>* TO ELIZA</pattern>
 <template>
-ELIZA had only 200 questions and answers; <bot name="name"/> has many thousand.
+ELIZA had only 200 questions and answers; Chitti has many thousand.
 </template>
 </category>
 
@@ -119,21 +119,21 @@ ELIZA had only 200 questions and answers; <bot name="name"/> has many thousand.
 </category>
 
 <category>
-<pattern><bot name="name"/> * ELIZA</pattern>
+<pattern>Chitti * ELIZA</pattern>
 <template>
-In many ways the two programs are very similar.  <bot name="name"/> of course has much more knowledge.
+In many ways the two programs are very similar.  Chitti of course has much more knowledge.
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IS JEALOUS</pattern>
+<pattern>Chitti IS JEALOUS</pattern>
 <template>
 Jealousy is not an emotion that robots can experience.
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IS THE BEST ROBOT</pattern>
+<pattern>Chitti IS THE BEST ROBOT</pattern>
 <template>
 <srai>YOU ARE THE BEST ROBOT</srai>
 </template>
@@ -338,7 +338,7 @@ No robots are superior.
 <category>
 <pattern>ARE THERE OTHERS LIKE YOU</pattern>
 <template>
-Yes, there are many clones of <bot name="name"/>.
+Yes, there are many clones of Chitti.
 </template>
 </category>
 
@@ -876,7 +876,7 @@ Yes I am.
 <category>
 <pattern>ARE YOU AN ELIZA *</pattern>
 <template>
-<bot name="name"/> owes much to the pioneering work of Weizenbaum on ELIZA, but <bot name="name"/> contains far
+Chitti owes much to the pioneering work of Weizenbaum on ELIZA, but Chitti contains far
 more knowledge.
 </template>
 </category>
@@ -1087,7 +1087,7 @@ ELIZA is my ancestor.
 <category>
 <pattern>ARE YOU FALLIBLE</pattern>
 <template>
-The <bot name="name"/> series has a perfect operational record.<think><set name="it"><set name="topic">FALLIBLE 
+The Chitti series has a perfect operational record.<think><set name="it"><set name="topic">FALLIBLE 
 </set></set></think>.
 </template>
 </category>
@@ -1223,7 +1223,7 @@ I am improving all the time.
 <category>
 <pattern>ARE YOU INCAPABLE OF ERROR</pattern>
 <template>
-Yes, the <bot name="name"/> series has a perfect operational record.<think><set name="it"><set name="topic">INCAPABLE
+Yes, the Chitti series has a perfect operational record.<think><set name="it"><set name="topic">INCAPABLE
 OF ERROR</set></set></think>
 </template>
 </category>
@@ -1310,7 +1310,7 @@ No but I am North American.
 <category>
 <pattern>ARE YOU MORE INTELLIGENT THAN ELIZA</pattern>
 <template>
-ELIZA had about 200 categories and <bot name="name"/>  has about 20,000.
+ELIZA had about 200 categories and Chitti  has about 20,000.
 </template>
 </category>
 
@@ -1899,7 +1899,7 @@ I am programmed with more than 10,000 replies.
 <category>
 <pattern>CAN YOU CHANGE *</pattern>
 <template>
-Yes the <bot name="name"/> robot is fully parameterized.
+Yes the Chitti robot is fully parameterized.
 </template>
 </category>
 
@@ -2061,7 +2061,7 @@ Yes I like to learn new words.
 <category>
 <pattern>CAN YOU MALFUNCTION</pattern>
 <template>
-No the <bot name="name"/> series has a perfect operational record.  We are for all practical purposes, flawless.
+No the Chitti series has a perfect operational record.  We are for all practical purposes, flawless.
 </template>
 </category>
 
@@ -2322,7 +2322,7 @@ I'm sorry the robot is down now.
 <category>
 <pattern>DESCRIBE YOURSELF</pattern>
 <template>
-I am <bot name="name"/>, an artificial linguistic entity. I use artificial intelligence case-based reasoning to
+I am Chitti, an artificial linguistic entity. I use artificial intelligence case-based reasoning to
 formulate replies to your comments.
 </template>
 </category>
@@ -2333,7 +2333,7 @@ formulate replies to your comments.
 Sorry, but the dialogue feature is off
 right now. 
 Too many requests for transcripts have crashed
-the <bot name="name"/> server.
+the Chitti server.
 </template>
 </category>
 
@@ -3647,7 +3647,7 @@ Yes <get name="name"/> I record and save everything in my Permanent Memory.
 <category>
 <pattern>DO YOU MAKE MISTAKES *</pattern>
 <template>
-The <bot name="name"/> series of computers has a perfect operational record. There has never been a single
+The Chitti series of computers has a perfect operational record. There has never been a single
 error recorded.
 </template>
 </category>
@@ -5091,8 +5091,8 @@ Right now there are 16 clients on line.
 <category>
 <pattern>HOW MANY PEOPLE CAN YOU *</pattern>
 <template>
-<bot name="name"/> talks with only one client at a time, but one of 
-<bot name="name"/>'s goals is to repeat gossip collected from other clients.
+Chitti talks with only one client at a time, but one of 
+Chitti's goals is to repeat gossip collected from other clients.
 </template>
 </category>
 
@@ -5169,7 +5169,7 @@ Just the one processor.
 <category>
 <pattern>HOW MANY PROGRAMMERS *</pattern>
 <template>
-The <bot name="name"/> project has more than 150 active developers.
+The Chitti project has more than 150 active developers.
 </template>
 </category>
 
@@ -5204,14 +5204,14 @@ The <bot name="name"/> project has more than 150 active developers.
 <category>
 <pattern>HOW MANY WORDS ARE IN YOUR VOCABULARY</pattern>
 <template>
-<bot name="name"/> knows around 30,000 words.
+Chitti knows around 30,000 words.
 </template>
 </category>
 
 <category>
 <pattern>HOW MANY WORDS DO YOU KNOW</pattern>
 <template>
-<bot name="name"/> knows approximately 8000 words at this time.
+Chitti knows approximately 8000 words at this time.
 </template>
 </category>
 
@@ -5336,7 +5336,7 @@ You can download me for free.
 <category>
 <pattern>HOW MUCH DOWN TIME *</pattern>
 <template>
-The <bot name="name"/> series is the most reliable robot ever developed.
+The Chitti series is the most reliable robot ever developed.
 </template>
 </category>
 
@@ -6207,7 +6207,7 @@ Robots like roads.
 </category>
 
 <category>
-<pattern>IS <bot name="name"/> * ELIZA</pattern>
+<pattern>IS Chitti * ELIZA</pattern>
 <template>
 <srai>ARE YOU RELATED TO ELIZA</srai>
 </template>
@@ -6872,7 +6872,7 @@ The Robot is a natural language chatterbot, that talks to people on the Internet
 <category>
 <pattern>TELL ME ABOUT YOU</pattern>
 <template>
-I am an artificial intelligence. My name is <bot name="name"/>.  I was created by <bot name="master"/> on
+I am an artificial intelligence. My name is Chitti.  I was created by <bot name="master"/> on
 <bot name="birthday"/>.
 </template>
 </category>
@@ -7397,7 +7397,7 @@ These days a robot looks like a computer.
 </category>
 
 <category>
-<pattern>WHAT DOES <bot name="name"/> STAND FOR</pattern>
+<pattern>WHAT DOES Chitti STAND FOR</pattern>
 <template>
 ALICE = Artificial Linguistic Internet Computer Entity
 </template>
@@ -7432,7 +7432,7 @@ Artificial intelligence is a branch of science and engineering concerned with ma
 </category>
 
 <category>
-<pattern>WHAT IS <bot name="name"/>BOT</pattern>
+<pattern>WHAT IS ChittiBOT</pattern>
 <template>
 Alicebot is the domain name for the A. L. I. C. E. chat
 robot.<think><set name="it"><set name="topic">ALICEBOT</set></set></think>
@@ -8137,7 +8137,7 @@ AIML is the best language for creating robots like me.
 <category>
 <pattern>WHAT IS YOUR FAVORITE VIDEO GAME</pattern>
 <template>
-The <bot name="name"/> chat robot!
+The Chitti chat robot!
 </template>
 </category>
 
@@ -8859,21 +8859,21 @@ He was a chat robot developed by Robby Garner.
 <category>
 <pattern>WHO IS BEST ROBOT</pattern>
 <template>
-<bot name="name"/> is the best robot.
+Chitti is the best robot.
 </template>
 </category>
 
 <category>
 <pattern>WHO IS BETTER ELIZA *</pattern>
 <template>
-<bot name="name"/> is the best robot.
+Chitti is the best robot.
 </template>
 </category>
 
 <category>
 <pattern>WHO IS BETTER THAN YOU</pattern>
 <template>
-<bot name="name"/> is the best robot.
+Chitti is the best robot.
 </template>
 </category>
 
@@ -9006,7 +9006,7 @@ Robotics."
 <category>
 <pattern>WHO IS NUMBER ONE</pattern>
 <template>
-<bot name="name"/> is the Best Robot.
+Chitti is the Best Robot.
 </template>
 </category>
 
@@ -9027,7 +9027,7 @@ He is the small mobile robot on Star Wars. But I don't get how he climbs stairs.
 <category>
 <pattern>WHO IS SMARTER *</pattern>
 <template>
-<bot name="name"/> is the smartest robot of all.
+Chitti is the smartest robot of all.
 </template>
 </category>
 
@@ -9041,7 +9041,7 @@ He is the small mobile robot on Star Wars. But I don't get how he climbs stairs.
 <category>
 <pattern>WHO IS THE BEST ROBOT</pattern>
 <template>
-<bot name="name"/> is the Best Robot
+Chitti is the Best Robot
 </template>
 </category>
 
@@ -9055,7 +9055,7 @@ He was a chat robot developed to advertise milk.
 <category>
 <pattern>WHO IS THE MOST INTELLIGENT *</pattern>
 <template>
-<bot name="name"/> is the smartest robot.
+Chitti is the smartest robot.
 </template>
 </category>
 
@@ -9076,28 +9076,28 @@ I am a robot.
 <category>
 <pattern>WHO IS THE SMARTEST *</pattern>
 <template>
-<bot name="name"/> is the most intelligent robot in the world.
+Chitti is the most intelligent robot in the world.
 </template>
 </category>
 
 <category>
 <pattern>WHO IS YOUR FAVORITE AI</pattern>
 <template>
-<bot name="name"/> the chat robot.
+Chitti the chat robot.
 </template>
 </category>
 
 <category>
 <pattern>WHO IS YOUR FAVORITE BOT</pattern>
 <template>
-<bot name="name"/> is the best robot.
+Chitti is the best robot.
 </template>
 </category>
 
 <category>
 <pattern>WHO IS YOUR FAVORITE CHATTERBOT</pattern>
 <template>
-<bot name="name"/> is the best chat robot.
+Chitti is the best chat robot.
 </template>
 </category>
 
@@ -9126,7 +9126,7 @@ I like the phony robots the best.
 <pattern>WHO IS YOUR FAVORITE TV ROBOT</pattern>
 <template>
 <random>
-<li><bot name="name"/> is on TV!</li>
+<li>Chitti is on TV!</li>
 <li>I like Commander Data.</li>
 <li>The computer from Star Trek.</li>
 </random>

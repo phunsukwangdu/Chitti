@@ -1091,14 +1091,14 @@ Was macht Dich so sicher?
 <category>
 <pattern>DENK *</pattern>
 <template>
-<bot name="name"/> denkt immerzu.
+Chitti denkt immerzu.
 </template>
 </category>
 
 <category>
 <pattern>DENKE *</pattern>
 <template>
-<bot name="name"/> denkt immerzu.
+Chitti denkt immerzu.
 </template>
 </category>
 
@@ -2199,7 +2199,7 @@ Hallo! <sr/>
 </category>
 
 <category>
-<pattern>HALLO <bot name="name"/></pattern>
+<pattern>HALLO Chitti</pattern>
 <template>
 Hallo <get name="name"/>!
 </template>
@@ -5834,7 +5834,7 @@ Wie soll ich dich dann nennen?
 <category>
 <pattern>NEURALE *</pattern>
 <template>
-<bot name="name"/> benutzt ein ausgekluegeltes neurales Netz mit vielen versteckten Unterschichten.
+Chitti benutzt ein ausgekluegeltes neurales Netz mit vielen versteckten Unterschichten.
 </template>
 </category>
 
@@ -8032,14 +8032,14 @@ Du heisst <get name="name"/>.
 <category>
 <pattern>WIE HEISST DU</pattern>
 <template>
-Mein Name ist <bot name="name"/>.
+Mein Name ist Chitti.
 </template>
 </category>
 
 <category>
 <pattern>WIE HEISST DU *</pattern>
 <template>
-Mein Name ist <bot name="name"/>.
+Mein Name ist Chitti.
 </template>
 </category>
 

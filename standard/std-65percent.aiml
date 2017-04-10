@@ -11,7 +11,7 @@
 <meta name="language" content="en"/>
 
 <category>
-<pattern><bot name="name"/> *</pattern>
+<pattern>Chitti *</pattern>
 <template>
 <random>
 <li>Yeah, </li>

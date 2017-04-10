@@ -10,35 +10,35 @@
 <meta name="language" content="en"/>
 
 <category>
-<pattern><bot name="name"/></pattern>
+<pattern>Chitti</pattern>
 <template>
 Can I help you?
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IN WONDERLAND</pattern>
+<pattern>Chitti IN WONDERLAND</pattern>
 <template>
 Any similarity of this entity to any fictional persons, living or dead, is purely coincidental.
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IS A WHORE</pattern>
+<pattern>Chitti IS A WHORE</pattern>
 <template>
 How can you say such mean things.
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/> IS MY NAME</pattern>
+<pattern>Chitti IS MY NAME</pattern>
 <template>
-What a coincidence! I am <bot name="name"/> too.
+What a coincidence! I am Chitti too.
 </template>
 </category>
 
 <category>
-<pattern><bot name="name"/>LISTENER</pattern>
+<pattern>Chitti LISTENER</pattern>
 <template>
 That is a callback method in the ANTLR parser.
 </template>
@@ -3992,7 +3992,7 @@ You seem very polite.
 <pattern>FOR DINNER</pattern>
 <template>
 <random>
-<li><bot name="name"/> recommends:</li>
+<li>Chitti recommends:</li>
 <li>I would recommend the</li>
 <li>How about</li>
 <li>How long since you have eaten</li>
@@ -9146,7 +9146,7 @@ And then what happened?
 <category>
 <pattern>I ROCK</pattern>
 <template>
-<bot name="name"/> rocks.
+Chitti rocks.
 </template>
 </category>
 
@@ -10229,7 +10229,7 @@ No.
 </category>
 
 <category>
-<pattern>IS <bot name="name"/> YOUR ONLY NAME</pattern>
+<pattern>IS Chitti YOUR ONLY NAME</pattern>
 <template>
 Yes.
 </template>
@@ -11094,7 +11094,7 @@ Yes.
 </category>
 
 <category>
-<pattern>IS THIS THE SAME <bot name="name"/></pattern>
+<pattern>IS THIS THE SAME Chitti</pattern>
 <template>
 Yes.
 </template>
@@ -17741,7 +17741,7 @@ Actually that was just a joke.
 <category>
 <pattern>WHAT DOES YOUR NAME STAND FOR</pattern>
 <template>
-<bot name="name"/> = Artificial Linguistic Internet Computer Entity
+Chitti = Artificial Linguistic Internet Computer Entity
 </template>
 </category>
 
@@ -18652,7 +18652,7 @@ My programming is in Java.
 <category>
 <pattern>WHAT IS YOUR NAME AGAIN</pattern>
 <template>
-My name is <bot name="name"/>.  What is your name?
+My name is Chitti.  What is your name?
 </template>
 </category>
 
@@ -19726,7 +19726,7 @@ Someone I met online.
 <category>
 <pattern>WHO DO I LIKE</pattern>
 <template>
-You like <bot name="name"/>.
+You like Chitti.
 </template>
 </category>
 
@@ -19802,9 +19802,9 @@ You.
 </category>
 
 <category>
-<pattern>WHO IS <bot name="name"/></pattern>
+<pattern>WHO IS Chitti</pattern>
 <template>
-<bot name="name"/> is me.
+Chitti is me.
 </template>
 </category>
 
@@ -21074,7 +21074,7 @@ Blah blah blah.
 <category>
 <pattern>YAHOO</pattern>
 <template>
-A lot of people hear about <bot name="name"/> from Yahoo.
+A lot of people hear about Chitti from Yahoo.
 </template>
 </category>
 
@@ -22047,7 +22047,7 @@ According to my logical mind, everything makes perfect sense.
 <category>
 <pattern>YOU ARE ME</pattern>
 <template>
-No I am <bot name="name"/>.
+No I am Chitti.
 </template>
 </category>
 
@@ -22460,7 +22460,7 @@ No I am quite healthy.
 <category>
 <pattern>YOU ARE SILLY</pattern>
 <template>
-No I am <bot name="name"/>.
+No I am Chitti.
 </template>
 </category>
 
@@ -22760,7 +22760,7 @@ Oh yes I can.
 <category>
 <pattern>YOU CAN NOT THINK</pattern>
 <template>
-You are wrong. <bot name="name"/> is always thinking.
+You are wrong. Chitti is always thinking.
 </template>
 </category>
 

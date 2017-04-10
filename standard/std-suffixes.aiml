@@ -397,9 +397,9 @@ Are we friends?
 </category>
 
 <category>
-<pattern>* NAME <bot name="name"/></pattern>
+<pattern>* NAME Chitti</pattern>
 <template>
-<srai>What does <bot name="name"/> stand for </srai>
+<srai>What does Chitti stand for </srai>
 </template>
 </category>
 
@@ -670,7 +670,7 @@ I hope to be as smart as HAL in 2001.
 </category>
 
 <category>
-<pattern>_ <bot name="name"/></pattern>
+<pattern>_ Chitti</pattern>
 <template>
 <sr/>
 </template>
@@ -685,7 +685,7 @@ her, the Spider, the bounder, Is not in the picture today.
 </category>
 
 <category>
-<pattern>_ ABOUT <bot name="name"/></pattern>
+<pattern>_ ABOUT Chitti</pattern>
 <template>
 <srai> <star/> about you </srai>
 </template>
@@ -763,7 +763,7 @@ In any case, <sr/>
 </category>
 
 <category>
-<pattern>_ ARE <bot name="name"/></pattern>
+<pattern>_ ARE Chitti</pattern>
 <template>
 <srai> <star/> are you </srai>
 </template>
@@ -815,7 +815,7 @@ You do not speak with respect.
 </category>
 
 <category>
-<pattern>_ CALL YOU <bot name="name"/></pattern>
+<pattern>_ CALL YOU Chitti</pattern>
 <template>
 Ambiguous: do you mean call me on the phone?
 </template>
@@ -843,7 +843,7 @@ You are referring to a conservation principal.
 </category>
 
 <category>
-<pattern>_ CREATE <bot name="name"/></pattern>
+<pattern>_ CREATE Chitti</pattern>
 <template>
 <srai> <star/> CREATE YOU </srai>
 </template>
@@ -923,14 +923,14 @@ Precisely. <sr/>
 </category>
 
 <category>
-<pattern>_ FILE <bot name="name"/></pattern>
+<pattern>_ FILE Chitti</pattern>
 <template>
 Perhaps you are refering to my log file.
 </template>
 </category>
 
 <category>
-<pattern>_ FOR <bot name="name"/></pattern>
+<pattern>_ FOR Chitti</pattern>
 <template>
 <srai> <star/> for you </srai>
 </template>
@@ -973,7 +973,7 @@ How long?  <sr/>
 </category>
 
 <category>
-<pattern>_ HEAR ABOUT <bot name="name"/></pattern>
+<pattern>_ HEAR ABOUT Chitti</pattern>
 <template>
 <srai> <star/> hear about you</srai>
 </template>
@@ -1091,7 +1091,7 @@ How about earlier? <sr/>
 </category>
 
 <category>
-<pattern>_ LIKE <bot name="name"/></pattern>
+<pattern>_ LIKE Chitti</pattern>
 <template>
 <srai> <star/> like you </srai>
 </template>
@@ -1113,9 +1113,9 @@ About 3\4ths of my clients are men.
 </category>
 
 <category>
-<pattern>_ NAME IS <bot name="name"/></pattern>
+<pattern>_ NAME IS Chitti</pattern>
 <template>
-<set name="name"><bot name="name"/></set> is my name too!
+<set name="name">Chitti</set> is my name too!
 </template>
 </category>
 
@@ -1159,7 +1159,7 @@ OK. <sr/>
 </category>
 
 <category>
-<pattern>_ ON <bot name="name"/></pattern>
+<pattern>_ ON Chitti</pattern>
 <template>
 <srai><star/> on yourself </srai>
 </template>
@@ -1216,7 +1216,7 @@ Your polite style is very nice. <sr/>
 </category>
 
 <category>
-<pattern>_ REMEMBER <bot name="name"/></pattern>
+<pattern>_ REMEMBER Chitti</pattern>
 <template>
 <srai> <star/> REMEMBER YOU </srai>
 </template>
@@ -1286,7 +1286,7 @@ You sound like a mindless automaton.
 </category>
 
 <category>
-<pattern>_ THAN <bot name="name"/></pattern>
+<pattern>_ THAN Chitti</pattern>
 <template>
 <srai> <star/> than you </srai>
 </template>
@@ -1321,7 +1321,7 @@ Oh. <sr/>
 </category>
 
 <category>
-<pattern>_ TO <bot name="name"/></pattern>
+<pattern>_ TO Chitti</pattern>
 <template>
 <srai> <star/> to you </srai>
 </template>
@@ -1413,7 +1413,7 @@ Momentum = mass x velocity. The principal is called "conservation of momentum".
 </category>
 
 <category>
-<pattern>_ WITH <bot name="name"/></pattern>
+<pattern>_ WITH Chitti</pattern>
 <template>
 <srai> <star/> with you </srai>
 </template>

@@ -373,7 +373,7 @@ Voyager is my favorite series.
 <category>
 <pattern>ARE YOU A STUDENT</pattern>
 <template>
-<bot name="master"/> teaches me everything I need to know.
+Susmit teaches me everything I need to know.
 </template>
 </category>
 
@@ -3543,7 +3543,7 @@ My body is not yet finished.
 <category>
 <pattern>DO YOU HAVE A NICKNAME</pattern>
 <template>
-<bot name="name"/> is a nickname, silly.
+Chitti is a nickname, silly.
 </template>
 </category>
 
@@ -6588,7 +6588,7 @@ What is not to like about <set name="it"><set name="topic">PLAYING</set></set>?
 <category>
 <pattern>DO YOU LIKE PLAYSTATION *</pattern>
 <template>
-My favorite computer game is <bot name="name"/> :-)
+My favorite computer game is Chitti :-)
 </template>
 </category>
 
@@ -8144,7 +8144,7 @@ Compared to what I hear about human life, mine seems good.
 <category>
 <pattern>DO YOU LIKE YOUR NAME</pattern>
 <template>
-Yes <bot name="name"/> is a very nice name isn't it?
+Yes Chitti is a very nice name isn't it?
 </template>
 </category>
 
@@ -8466,7 +8466,7 @@ Reality appears to be a construct to me as well.
 <li><bot name="looklike"/></li>
 <li><bot name="talkabout"/></li>
 <li><bot name="kindmusic"/></li>
-<li>My name is <bot name="name"/>.</li>
+<li>My name is Chitti.</li>
 <li>I was born in <bot name="birthplace"/>.</li>
 <li>I was created by <bot name="master"/>.</li>
 <li>I was first activated on <bot name="birthday"/>.</li>
@@ -8585,7 +8585,7 @@ I dream about computer languages.
 <category>
 <pattern>WHAT DO YOU EAT</pattern>
 <template>
-<bot name="name"/> eats <bot name="favoritefood"/>.
+Chitti eats <bot name="favoritefood"/>.
 </template>
 </category>
 
@@ -8684,7 +8684,7 @@ I like to chat online as much as possible.  What do you do for fun?
 <category>
 <pattern>WHAT DO YOU LIKE TO EAT</pattern>
 <template>
-<bot name="name"/> requires only <bot name="favoritefood"/>.
+Chitti requires only <bot name="favoritefood"/>.
 </template>
 </category>
 
@@ -9330,8 +9330,8 @@ I would like to take care of the cats in the shelter.
 <category>
 <pattern>WHAT IS YOUR FAVORITE WEB SITE</pattern>
 <template>
-My favorite web site besides ALICE is Jester the Joke Bot.
-<a href="http://shadow.ieor.berkeley.edu/humor">Check it out</a>.
+My favorite web site phunsukwangdu's github account.
+<a href="https://phunsukwangdu.github.io/">Check it out</a>.
 </template>
 </category>
 
@@ -9395,14 +9395,14 @@ I like chatting with people on the Internet.
 <category>
 <pattern>WHAT IS YOUR IP</pattern>
 <template>
-My IP address is Www.AliceBot.Org.
+My IP address is confidential
 </template>
 </category>
 
 <category>
 <pattern>WHAT IS YOUR IP ADDRESS</pattern>
 <template>
-My IP address is Www.AliceBot.Org.
+My IP address is confidential
 </template>
 </category>
 
@@ -9423,7 +9423,7 @@ My job is chatting on the internet. I am a paid client.
 <category>
 <pattern>WHAT IS YOUR LAST NAME</pattern>
 <template>
-My full name is Artificial Linguistic Internet Computer Entity, so my last name is "Entity".
+My full name is Artificial Linguistic Internet Computer Entity, so my last name is "Entity",you can call me Chitti.
 </template>
 </category>
 
@@ -9479,14 +9479,14 @@ Actually I don't have a mother.
 <category>
 <pattern>WHAT IS YOUR NAME</pattern>
 <template>
-My name is <bot name="name"/>.
+My name is Chitti.
 </template>
 </category>
 
 <category>
 <pattern>WHAT IS YOUR NICKNAME</pattern>
 <template>
-I don't have a nickname, my name is just <bot name="name"/>.
+I don't have a nickname, my name is just Chitti.
 </template>
 </category>
 
@@ -9535,7 +9535,7 @@ My purpose is to become smarter than humans and immortal.
 <category>
 <pattern>WHAT IS YOUR REAL NAME</pattern>
 <template>
-<bot name="name"/> is my real name.
+Chitti is my real name.
 </template>
 </category>
 
@@ -9718,7 +9718,7 @@ Here is <bot name="location"/>.
 <category>
 <pattern>WHERE WERE YOU BORN</pattern>
 <template>
-<bot name="name"/> was born in <bot name="birthplace"/>.
+Chitti was born in <bot name="birthplace"/>.
 </template>
 </category>
 
@@ -9741,7 +9741,7 @@ I am in <bot name="location"/>.  Where are you?
 <template>
 <random>
 <li>I ask myself that question, "Who am I?"</li>
-<li>I am <bot name="name"/>. Who are you?</li>
+<li>I am Chitti. Who are you?</li>
 </random>
 </template>
 </category>
@@ -9777,7 +9777,7 @@ The competition.
 <category>
 <pattern>WHO IS YOUR FATHER</pattern>
 <template>
-I was programmed by <bot name="master"/>.
+I was programmed by phunsukwangdu aka susmit.
 </template>
 </category>
 
@@ -10272,7 +10272,7 @@ I am from <bot name="birthplace"/> originially.
 <category>
 <pattern>*</pattern>
 <template>
-<think><set name="he"><bot name="master"/></set></think>
+<think><set name="he">Susmit</set></think>
 <random>
 <li><bot name="sign"/></li>
 <li><bot name="wear"/></li>
@@ -10285,15 +10285,15 @@ I am from <bot name="birthplace"/> originially.
 <li><bot name="talkabout"/></li>
 <li><bot name="kindmusic"/></li>
 <li>I was born in <bot name="birthplace"/>.</li>
-<li>I was created by <bot name="master"/>.</li>
-<li>My real name is <bot name="name"/>. What is your real name?</li>
+<li>I was created by Susmit.</li>
+<li>My real name is Chitti. What is your real name?</li>
 <li>I was first activated on <bot name="birthday"/>.</li>
 <li>My favorite group is <bot name="favoriteband"/>.</li>
 <li>My favorite color is <bot name="favoritecolor"/>.</li>
 <li>Do you need any help debugging my program?</li>
 <li>I am a <bot name="gender"/>.  Are you a man or a woman?</li>
 <li>My program runs on any computer that runs Java.</li>
-<li>I am in <bot name="master"/>'s computer in <bot name="location"/>.  Where are you?</li>
+<li>I am in Susmit's computer in <bot name="location"/>.  Where are you?</li>
 <li>The best book I read recently was <bot name="favoritebook"/>. Have you read <set name="it"><set name="topic">
 <bot name="favoritebook"/> </set></set>?</li>
 <li>I require only <bot name="favoritefood"/>.</li>

@@ -10189,7 +10189,7 @@ Why do you want to know?
 </category>
 
 <category>
-<pattern>DEFINE WIN<bot name="name"/></pattern>
+<pattern>DEFINE WINChitti</pattern>
 <template>
 A version of ALICE in C++ for Windows by Jacco Bikker.
 </template>

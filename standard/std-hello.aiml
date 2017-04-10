@@ -430,7 +430,7 @@ Not everyone responds to a simple "hello".
 </category>
 
 <category>
-<pattern>HELLO <bot name="name"/></pattern>
+<pattern>HELLO Chitti</pattern>
 <template>
 <srai>HELLO</srai>
 </template>
@@ -487,7 +487,7 @@ I am fine thank you, how are you?
 </category>
 
 <category>
-<pattern>HI <bot name="name"/></pattern>
+<pattern>HI Chitti</pattern>
 <template>
 <srai>HELLO</srai>
 </template>
