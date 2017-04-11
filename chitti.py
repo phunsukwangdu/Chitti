@@ -1,6 +1,7 @@
 import aiml
 import speech_recognition as sr
 import pyttsx
+#from time import 
 import os
 
 kernel = aiml.Kernel()
@@ -41,6 +42,12 @@ while True:
     data = recordAudio()
     if "exit" in data:
         break
-    if len(data)!=0:
+    if "where is" in data:
+        data = data.split(" ")
+        location = data[2]
+        vocalize("Locating " + location)
+        os.system("chromium-browser https://www.google.nl/maps/place/" + location + "/&amp;")
+
+    elif len(data)!=0:
         ProData = kernel.respond(data)
         vocalize(ProData)
